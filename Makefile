@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=Argonne Theme
+LUCI_TITLE:=Argonne kenzo
 LUCI_DEPENDS:=+curl +jsonfilter
 PKG_VERSION:=2.3
 PKG_RELEASE:=3
